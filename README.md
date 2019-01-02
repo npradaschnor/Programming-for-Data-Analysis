@@ -1,3 +1,7 @@
+<a href="https://ibb.co/h3GAuq"><img src="https://image.ibb.co/kt1M0V/GMIT-LOGO.png" alt="GMIT-LOGO" border="0"></a>
+
+# HD Computer Science - Data Analytics
+
 # Programming for Data Analytics Module
 
 In this repository there's an assignment about numpy.random package in Python.
