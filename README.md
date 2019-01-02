@@ -15,3 +15,5 @@ Section 2. 'Simple random data' and 'Permutations' functions: explanation about 
 Section 3. 'Distributions' functions: explanation about the use and purpose of five functions from this section;
 
 Section 4. 'Random generator': expplanation about the use of the 'seeds'.
+
+For more info about the assignment instruction: [assignment-instructions.pdf](https://github.com/npradaschnor/Programming-for-Data-Analytics/blob/master/assignment-instructions.pdf)
