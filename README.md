@@ -1,3 +1,3 @@
-# Programming-for-Data-Analysis
+# Programming for Data Analytics Module
 
-Git repository for the assignments of Programming for Data Analysis Module. 
+Git repository for the assignment about numpy.random function.. 
